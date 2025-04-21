@@ -84,3 +84,7 @@ This project is open-source under the MIT License. Check the `LICENSE` file for 
 - Open the process (Do not press anything yet)
 - Open sysinformer/prochacker and open your process and press on modules tab
 - you will see the .dll and go back to your process and press enter. after that go back and .dll wont be there.
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
